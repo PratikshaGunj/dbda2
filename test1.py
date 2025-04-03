@@ -1,3 +1,2 @@
 test file
-local file
-check changes
+file changed on test purpose
